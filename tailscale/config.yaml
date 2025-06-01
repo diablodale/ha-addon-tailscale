@@ -1,10 +1,9 @@
 ---
-name: Tailscale
+name: Tailscale (dp version)
 version: dev
-slug: tailscale
+slug: tailscale-dp
 description: Zero config VPN for building secure networks
 url: https://github.com/hassio-addons/addon-tailscale
-codenotary: codenotary@frenck.dev
 ingress: true
 ingress_port: 0
 ingress_stream: true
